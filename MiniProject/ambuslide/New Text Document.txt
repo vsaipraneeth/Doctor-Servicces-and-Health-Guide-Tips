@@ -1,0 +1,31 @@
+function imageleft() {
+ $("#image").animate({right: "+=50%"}, 6000);
+    $("#image").animate({right: "+=50%"}, 4000,imageslide());
+}
+function imageslide(){
+$("#image").animate({right: "+=100"},6000,imageleft();
+}
+setInterval(function(){
+$("#image").animate({left:"0"},0000,imageleft());
+
+
+},1000);
+
+
+
+
+
+---------------------another method-----------------------------
+
+
+reslide();
+ 
+ 
+});
+
+function reslide(){
+$("#image").css({width:'0'}).animate({width:'100%'},6000,reslide);
+}
+
+
+

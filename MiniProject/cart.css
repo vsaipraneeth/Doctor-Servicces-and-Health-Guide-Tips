@@ -1,0 +1,33 @@
+.carttempout{
+	height:200px;
+	width:200px;
+	background-color:grey;
+	text-align:center;
+	padding-top:20px;
+	margin-top:10px;
+}
+.shopname{
+	width:90%;
+	height:20%;
+	background-color:#eee;
+	margin-left:5%;
+}
+.date{
+	width:90%;
+	margin-left:5%;
+	background-color:#eee;
+	height:15%;
+}
+.contact{
+	width:100%;
+	height:15%;
+	background-color:;
+	color:black;
+}
+.address{
+	width:100%;
+	height:50%;
+	background-color:#bc8f8f;
+	color:black;
+	font-size:15px;
+}

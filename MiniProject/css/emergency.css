@@ -1,0 +1,38 @@
+.bodytitle{
+	width:80%;
+	height:40%;
+	position:absolute;
+	top:20%;
+	left:10%;
+	background-color:;
+	
+}
+.bodytitle select{
+	width:300px;
+	height:40px;
+	margin-left:10px;
+	padding-left:5%;
+	margin-top:5px;
+}
+.bodytitle input[type="submit"]{
+	width:200px;
+	height:40px;
+	padding-left:10px;
+	color:white;
+	background:#0098cb;
+	line-height:40px;
+	border:0px;
+	margin-top:20px;
+	border-radius:3px;
+	cursor:pointer;
+	
+}
+.bodytitle input[type="submit"]:hover{
+	background:#00b8eb;
+}
+.bodytitle{
+	font-size:20px;
+	text-align:center;
+	font-family: 'Oleo Script', cursive;
+	padding-top:50px;
+	}

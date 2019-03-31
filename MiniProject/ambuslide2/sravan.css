@@ -1,0 +1,88 @@
+*{
+	padding:0px;
+	margin:0px;
+}
+
+#container {
+	height:100%;
+	width:100%;
+	position:relative;
+	background-color:;
+	overflow:hidden;
+}
+
+#cloud img{
+	height:70px;
+	width:150px;
+	position:relative;
+}
+
+#cloud{
+	height:70px;
+	width:150px;
+	position:absolute;
+	top:25px;
+	left:10%;
+	
+}
+#cloud2 img{
+	height:70px;
+	width:150px;
+	position:relative;
+}
+
+#cloud2{
+	height:70px;
+	width:150px;
+	position:absolute;
+	top:25px;
+	right:5%;
+	
+}
+
+
+#hospital{	
+   height:250px;
+   width:150px;
+   position:absolute;
+   top:100px;
+   left:40%;
+}
+#hospital img{
+	height:150px;
+	width:150px;
+	position:absolute;
+    
+}
+
+#image{
+	height:50px;
+	width:100px;
+	float:right;
+	position:relative;
+}
+
+#image ul {	
+}
+#image ul li{	
+list-style:none;
+ }
+#image img{
+	height:50px;
+	width:100px;
+}
+
+#land{
+	background-image:url("land.jpg");
+	position:absolute;
+	height:100px;
+	width:100%;
+	top:0px;
+}
+
+#land img{
+	position:relative;
+	height:50px;
+	width:150px;
+	margin-left:40%;
+}

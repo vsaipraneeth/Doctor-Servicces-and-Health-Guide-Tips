@@ -1,0 +1,50 @@
+.body{
+	width:80%;
+	left:10%;
+	height:80%;
+	top:10%;
+	background-color:grey;
+	position:fixed;
+	
+}
+.title{
+	width:100%;
+	height:10%;
+	background-color:#463E59;
+	color:#eee;
+	text-align:center;
+	line-height:60px;
+	
+}
+.textabout{
+	width:100%;
+	height:80%;
+	background-color:#9D89CC;
+	font-size:18px;
+	
+}
+.para{
+	padding:5%;
+}
+.foot1{
+	width:100%;
+	height:10%;
+	background-color:#715EA0;
+}
+.share{
+	width:100px;
+	height:30p;
+	background-color:#463E59;
+	text-align:center;
+	float:right;
+	margin-left:5px;
+}
+.share:hover{
+	background-color:#9D89CC;
+}
+a{
+	text-decoration:none;
+}
+a {
+	color:white;
+}
